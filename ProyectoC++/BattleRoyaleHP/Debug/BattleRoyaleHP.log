@@ -1,0 +1,3 @@
+﻿  BattleRoyaleHP.cpp
+C:\Users\Lu\Documents\U-tad\Programacion Avanzada\Proyectos\C++\Trabajo\HP\Final\BattleRoyaleHP\BattleRoyaleHP\BattleRoyaleHP.cpp(101,27): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BattleRoyaleHP.vcxproj -> C:\Users\Lu\Documents\U-tad\Programacion Avanzada\Proyectos\C++\Trabajo\HP\Final\BattleRoyaleHP\Debug\BattleRoyaleHP.exe
